@@ -1,4 +1,4 @@
-# Use weather conditions to predict visitor attendance
+# Utilising weather conditions with continuous random data to predict visitor attendance
 
 ## Problem
 Welcome to Gardenia - A country which believes in creating a harmony between technology and natural resources. Over the years, Gardenia has come up with ways to utilise natural resources effectively and they have enabled this with use of cutting edge technology.
@@ -22,11 +22,12 @@ Ultimate Student Hunt Machine Learning Challenge by Analytics Vidhya .
 Estimations and idea generation using Gradient Boosting Regressor and implementation using XGBoost .
 
 ## Rank
-Public Leaderboard : 14 / 1487
+Public Leaderboard : 14 / 1487 -
 Private Leaderboard : 
 
 ## Team
 **Sarthak Munshi** &lt;sarthakm.com&gt;
 * [saru95](https://github.com/saru95) -
+
 **Yash Katariya** &lt;yashk.pythonanywhere.com&gt;
 * [ChALkeR](https://github.com/yashk2810) -
