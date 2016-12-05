@@ -22,7 +22,7 @@ Ultimate Student Hunt Machine Learning Challenge by Analytics Vidhya .
 Estimations and idea generation using Gradient Boosting Regressor and implementation using XGBoost .
 
 ## Rank
-Leaderboard : 21 / 1494 
+Leaderboard : 16 / 1494 
 
 RMSE : 95.597786
 
