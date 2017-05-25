@@ -29,8 +29,8 @@ RMSE : 95.597786
 Winning RMSE : 84.832233
 
 ## Team
-**Sarthak Munshi** &lt;sarthakm.com&gt;
+**Sarthak Munshi** &lt;<a href="https://saru.ml">https://saru.ml</a>&gt;
 * [saru95](https://github.com/saru95) 
 
-**Yash Katariya** &lt;yashk.pythonanywhere.com&gt;
+**Yash Katariya** &lt;<a href="https://yashk2810.github.io">https://yashk2810.github.io</a>&gt;
 * [yashk2810](https://github.com/yashk2810) 
