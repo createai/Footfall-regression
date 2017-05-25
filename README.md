@@ -10,6 +10,7 @@ They now have this data over a long period of time and are looking for experts l
 Go, help the mayor of Gardenia! He has high hopes from Analytics Vidhya community! All the best!
  
  
+ 
 ### Key Points:
 1. It has data for period Sep'1990 to Dec'2005
 2. The training data for period Sep'1990 to Dec'2001
